@@ -1,2 +1,2 @@
-#NAMA : TULUS AMRU #NIM : 23146002 #MK : Information Retrieval
+#NAMA : BRYAN NOVALDO #NIM : 23146070 #MK : Information Retrieval
 
